@@ -47,3 +47,28 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthkumar118&layout=compact&theme=tokyonight" />
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Learner;Open+to+Internships" />
+</p>
+
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Hemanthkumar118&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Hemanthkumar118&theme=tokyonight&no-frame=true&row=1&column=7)
+
+
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hemanthkumar118)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
