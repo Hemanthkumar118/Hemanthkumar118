@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hemanth Kumar</h1>
+<h3 align="center">Data Analyst | Python Developer | Aspiring Data Scientist</h3>
 
-<!--
-**Hemanthkumar118/Hemanthkumar118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE (Data Science) @ HITAM
+- 📊 Data Analyst & Python Developer
+- 🌱 Currently learning Power BI, SQL, Machine Learning
+- 💼 Open for Internships
+- 🎯 Goal: Data Analyst @ Top MNC
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+---
+
+### 🌐 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/hemanth-kumar-data)
+
+[Portfolio](hemanth-portfolio-vision.lovable.app)
+
+
+[Email](hemanth118kumar@gmail.com)
+
+---
