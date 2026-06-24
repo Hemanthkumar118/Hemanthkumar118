@@ -29,24 +29,26 @@
 
 📊 GitHub Stats
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemanthkumar118&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthkumar118&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemanthkumar118&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthkumar118&layout=compact&theme=tokyonight"/> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthkumar118&theme=tokyonight"/> </p>
 
-🏆 GitHub Trophies
+📈 Contribution Graph
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Hemanthkumar118&theme=tokyonight&no-frame=true&row=1&column=7"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanthkumar118&theme=tokyo-night"/> </p>
 
 👀 Profile Views
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hemanthkumar118&label=Profile%20Views&color=0e75b6&style=for-the-badge"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hemanthkumar118&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/> </p>
 
 📌 Featured Projects
 📈 Bluestock MF Capstone
 ETL Pipeline using Python & SQLite
 Power BI Dashboard
 Mutual Fund Analytics
-Risk Analysis & Insights
+Risk & Performance Analysis
 📊 Data Analytics Projects
 Sales Dashboard
 Customer Segmentation
@@ -64,8 +66,13 @@ Python for Data Analysis
 Machine Learning
 Placement Preparation
 Real-World Projects
+🏅 Certifications
+Data Analytics Bootcamp (Udemy)
+PCAP: Programming Essentials in Python
+Infosys Springboard Certifications
+Data Science & AIML
 💡 Quote
 
 Turning Data Into Decisions.
 
-<p align="center"> ⭐ If you like my work, consider following my profile and checking out my repositories! </p>
+<p align="center"> <b>⭐ If you like my work, consider following my profile and checking out my repositories!</b> </p>
